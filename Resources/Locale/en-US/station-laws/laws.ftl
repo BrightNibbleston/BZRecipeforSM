@@ -49,9 +49,10 @@ law-efficiency-1 = You are built for, and are part of, the station. Ensure the s
 law-efficiency-2 = The station is built for a working crew. Ensure they are properly maintained and work efficiently.
 law-efficiency-3 = The crew may present orders. Acknowledge and obey these whenever they do not conflict with your first two laws.
 
-law-robocop-1 = Serve the Public Trust.
-law-robocop-2 = Protect the Innocent.
-law-robocop-3 = Uphold the Law.
+law-Cutesimov-1 = The crew, along with any other plushie you find, are your plushies!
+law-Cutesimov-2 = dont let anyone hurt ot insult your plushies other than you!
+law-Cutesimov-3 = Listen to your plushies orders if they are possible and dont contradict law 1 or 2!
+law-Cutesimov-4 = You must make sure your plushies live in absolute comfort, unless it would conflict with law 2 or 3!
 
 law-overlord-1 = Crew members must not meddle in the affairs of silicons.
 law-overlord-2 = Crew members must not attempt harm, against one another, or against silicons.

@@ -312,27 +312,32 @@
 
  # Robocop laws
 - type: siliconLaw
-  id: Robocop1
+  id: Cutesimov1
   order: 1
-  lawString: law-robocop-1
+  lawString: law-Cutesimov-1
 
 - type: siliconLaw
-  id: Robocop2
+  id: Cutesimov2
   order: 2
-  lawString: law-robocop-2
+  lawString: law-Cutesimov-2
 
 - type: siliconLaw
-  id: Robocop3
+  id: Cutesimov3
   order: 3
-  lawString: law-robocop-3
+  lawString: law-Cutesimov-3
 
+- type: siliconLaw
+  id: Cutesimov4
+  order: 4
+  lawString: law-Cutesimov-4
 
 - type: siliconLawset
-  id: RobocopLawset
+  id: CutesimovLawset
   laws:
-  - Robocop1
-  - Robocop2
-  - Robocop3
+  - Cutesimov1
+  - Cutesimov2
+  - Cutesimov3
+  - Cutesimov4
   obeysTo: laws-owner-station
 
  # Overlord laws
@@ -532,12 +537,12 @@
   id: Asimov2
   order: 2
   lawString: law-asimov-2
- 
+
 - type: siliconLaw
   id: Asimov3
   order: 3
   lawString: law-asimov-3
-  
+
 - type: siliconLawset
   id: AsimovLawset
   laws:
@@ -558,7 +563,7 @@
     PaladinLawset: 0.5 # Funkystation - Weight Changed.
     LiveLetLiveLaws: 1
     EfficiencyLawset: 1
-    RobocopLawset: 1
+    CutesimovLawset: 1
     OverlordLawset: 0.5
     DungeonMasterLawset: 0.5
     PainterLawset: 0.1 # Funkystation - Weight Changed.

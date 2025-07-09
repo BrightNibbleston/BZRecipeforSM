@@ -1,0 +1,299 @@
+- type: reaction
+  id: SodiumFoam
+  priority: 10
+  impact: High
+  minTemp: 883.0
+  reactants:
+    Sodium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: AluminiumFoam
+  priority: 10
+  impact: High
+  minTemp: 2327.0
+  reactants:
+    Aluminium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: CarbonFoam
+  priority: 10
+  impact: High
+  minTemp: 4200.0
+  reactants:
+    Carbon:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: ChlorineFoam
+  priority: 10
+  impact: High
+  minTemp: -34.04
+  reactants:
+    Chlorine:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: CopperFoam
+  priority: 10
+  impact: High
+  minTemp: 2595.0
+  reactants:
+    Copper:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: FluorineFoam
+  priority: 10
+  impact: High
+  minTemp: -188.11
+  reactants:
+    Fluorine:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: GoldFoam
+  priority: 10
+  impact: High
+  minTemp: 2700.0
+  reactants:
+    Gold:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: HydrogenFoam
+  priority: 10
+  impact: High
+  minTemp: -253.0
+  reactants:
+    Hydrogen:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: IodineFoam
+  priority: 10
+  impact: High
+  minTemp: 184.3
+  reactants:
+    Iodine:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: IronFoam
+  priority: 10
+  impact: High
+  minTemp: 2862.0
+  reactants:
+    Iron:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: LithiumFoam
+  priority: 10
+  impact: High
+  minTemp: 1330.0
+  reactants:
+    Lithium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: MercuryFoam
+  priority: 10
+  impact: High
+  minTemp: 356.73
+  reactants:
+    Mercury:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: PotassiumFoam
+  priority: 10
+  impact: High
+  minTemp: 759.0
+  reactants:
+    Potassium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: PhosphorusFoam
+  priority: 10
+  impact: High
+  minTemp: 280.5
+  reactants:
+    Phosphorus:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: RadiumFoam
+  priority: 10
+  impact: High
+  minTemp: 1737.0
+  reactants:
+    Radium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: SiliconFoam
+  priority: 10
+  impact: High
+  minTemp: 3265.0
+  reactants:
+    Silicon:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: SilverFoam
+  priority: 10
+  impact: High
+  minTemp: 2212.0
+  reactants:
+    Silver:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: SulfurFoam
+  priority: 10
+  impact: High
+  minTemp: 445.0
+  reactants:
+    Sulfur:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: UraniumFoam
+  priority: 10
+  impact: High
+  minTemp: 4131.0
+  reactants:
+    Uranium:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg
+
+- type: reaction
+  id: ZincFoam
+  priority: 10
+  impact: High
+  minTemp: 907.0
+  reactants:
+    Zinc:
+      amount: 1
+  effects:
+  - !type:AreaReactionEffect
+    duration: 10
+    prototypeId: Foam
+    sound:
+      path: /Audio/Effects/extinguish.ogg

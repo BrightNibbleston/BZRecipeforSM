@@ -220,6 +220,18 @@
     laws: CutesinovLawset
 
 - type: entity
+  id: RobocopCircuitBoard
+  parent: BaseElectronics
+  name: law board (Robocop)
+  description: An electronics board containing the Robocop lawset.
+  components:
+  - type: Sprite
+    sprite: Objects/Misc/module.rsi
+    state: std_mod
+  - type: SiliconLawProvider
+    laws: RobocopLawset
+
+- type: entity
   id: OverlordCircuitBoard
   parent: BaseElectronics
   name: law board (Overlord)

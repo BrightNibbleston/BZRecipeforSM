@@ -341,6 +341,30 @@
   - Cutesinov4
   obeysTo: laws-owner-station
 
+# Robocop laws
+- type: siliconLaw
+  id: Robocop1
+  order: 1
+  lawString: law-robocop-1
+
+- type: siliconLaw
+  id: Robocop2
+  order: 2
+  lawString: law-robocop-2
+
+- type: siliconLaw
+  id: Robocop3
+  order: 3
+  lawString: law-robocop-3
+
+
+- type: siliconLawset
+  id: RobocopLawset
+  laws:
+  - Robocop1
+  - Robocop2
+  - Robocop3
+  obeysTo: laws-owner-station
  # Overlord laws
 - type: siliconLaw
   id: Overlord1

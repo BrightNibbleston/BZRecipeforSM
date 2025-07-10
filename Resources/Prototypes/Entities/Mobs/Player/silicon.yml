@@ -280,6 +280,7 @@
   - type: SiliconLawProvider
     laws: NutimovLawset
 
+
 # Items
 - type: entity
   id: Intellicard
